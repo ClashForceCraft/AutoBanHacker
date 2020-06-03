@@ -1,0 +1,11 @@
+name: AutoBanHacker
+main: AutoBanHacker\Main
+api: [3.0.0]
+version: 2.2
+author: ClashForceCraft
+
+commands:
+ abh help:
+  description: "AutoBanHacker Help /abh help"
+ abh on:
+  description: "AutoBanHacker ON /abh on" 
