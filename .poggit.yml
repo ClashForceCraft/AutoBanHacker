@@ -1,0 +1,8 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/ClashForceCraft/AutoBanHacker
+build-by-default: true
+branches:
+- master
+projects:
+  AutoBanHacker:
+    path: "plugin.yml"
+...
